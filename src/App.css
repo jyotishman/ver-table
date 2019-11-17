@@ -20,3 +20,12 @@
 .App-link {
   color: #09d3ac;
 }
+.btn-wrap{
+  display: block
+}
+.btn-wrap button{
+  background-color: #000;
+  color: #fff;
+  border: 0;
+  
+}
